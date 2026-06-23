@@ -57,19 +57,19 @@ This project demonstrates SQL-based data analysis on a retail store database usi
 
 ## 1️⃣ MySQL Connection
 
-![MySQL Connection](Connection.webp)
+![MySQL Connection](Connection(1).webp)
 
 ---
 
 ## 2️⃣ Database Created
 
-![Database](Database.webp)
+![Database](Database(1).webp)
 
 ---
 
 ## 3️⃣ Tables Created
 
-![Tables](Tables.webp)
+![Tables](Tables(1).webp)
 
 ---
 
