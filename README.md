@@ -57,37 +57,37 @@ This project demonstrates SQL-based data analysis on a retail store database usi
 
 ## 1️⃣ MySQL Connection
 
-![MySQL Connection](Connection (1).webp)
+![MySQL Connection](Connection.webp)
 
 ---
 
 ## 2️⃣ Database Created
 
-![Database](Database(1).webp)
+![Database](Database.webp)
 
 ---
 
 ## 3️⃣ Tables Created
 
-![Tables](Tables(1).webp)
+![Tables](Tables.webp)
 
 ---
 
 ## 4️⃣ Customer Data Verification
 
-![Customers](Datainserted.webp)
+![Customers](Data_inserted.webp)
 
 ---
 
 ## 5️⃣ Orders Data Verification
 
-![Orders](Ordersreturns16.webp)
+![Orders](Orders_returns_16.webp)
 
 ---
 
 ## 6️⃣ Order Items Verification
 
-![Order Items](Orders_itemsreturns30.webp)
+![Order Items](Orders_items_returns_30.webp)
 
 ---
 
