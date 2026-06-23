@@ -63,49 +63,49 @@ This project demonstrates SQL-based data analysis on a retail store database usi
 
 ## 2️⃣ Database Created
 
-![Database](Screenshots/02_Show_Databases.png)
+![Database](Database.webp)
 
 ---
 
 ## 3️⃣ Tables Created
 
-![Tables](Screenshots/03_Show_Tables.png)
+![Tables](Tables.webp)
 
 ---
 
 ## 4️⃣ Customer Data Verification
 
-![Customers](Screenshots/04_Count_Customers.png)
+![Customers](Datainserted.webp)
 
 ---
 
 ## 5️⃣ Orders Data Verification
 
-![Orders](Screenshots/05_Count_Orders.png)
+![Orders](Ordersreturns16.webp)
 
 ---
 
 ## 6️⃣ Order Items Verification
 
-![Order Items](Screenshots/06_Count_Order_Items.png)
+![Order Items](Orders_itemsreturns30.webp)
 
 ---
 
 ## 7️⃣ Sample Query Output (INNER JOIN)
 
-![Inner Join](Screenshots/10_Query1a.png)
+![Inner Join](Query2.webp)
 
 ---
 
 ## 8️⃣ Sample Query Output (CASE WHEN)
 
-![Case When](Screenshots/13_Query4a.png)
+![Case When](Querys4a.webp)
 
 ---
 
 ## 9️⃣ Sample Query Output (Window Function)
 
-![Window Function](Screenshots/16_Query6a.png)
+![Window Function](Query6a)
 
 ---
 
