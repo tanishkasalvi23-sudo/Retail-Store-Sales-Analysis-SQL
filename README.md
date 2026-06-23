@@ -99,13 +99,13 @@ This project demonstrates SQL-based data analysis on a retail store database usi
 
 ## 8️⃣ Sample Query Output (CASE WHEN)
 
-![Case When](Querys4a.webp)
+![Case When](Query4a.webp)
 
 ---
 
 ## 9️⃣ Sample Query Output (Window Function)
 
-![Window Function](Query6a)
+![Window Function](Query6a.webp)
 
 ---
 
